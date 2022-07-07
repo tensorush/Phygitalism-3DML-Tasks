@@ -1,4 +1,4 @@
-# :crystal_ball: **Phygitalism 3DML Tasks**
+# :crystal_ball: :ice_cube: **Phygitalism 3DML Tasks**
 
 <p align="center">
     <img src="https://hsto.org/getpro/habr/upload_files/749/374/712/74937471278fdc9a37195ef52cd4e4f3.jpg" width="512" height="512">
